@@ -1,0 +1,26 @@
+.vatnumber-error-message{
+    border-color: #fcd344;
+    background-color: #FDEDA4;
+    max-width: 100%;
+    margin-top: 5px;
+    background-image: url(../../images/i_msg-note.png);
+    background-position: 25px center !important;
+    background-repeat: no-repeat !important;
+    padding: 25px 25px 25px 80px !important;
+    font-size: 12px !important;
+    color: #7c622a;
+    clear: both;
+}
+.vatnumber-success-message{
+    clear: both;
+    border-color: #529327;
+    background-color: #e9ffca;
+    background-image: url(../../images/i_msg-success.png);
+    color: #296a23;
+    background-position: 25px center !important;
+    background-repeat: no-repeat !important;
+    padding: 25px 25px 25px 80px !important;
+    font-size: 12px !important;
+    margin-top: 5px;
+    max-width: 100%;
+}
